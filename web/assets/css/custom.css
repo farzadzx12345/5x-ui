@@ -197,7 +197,7 @@ body {
 
 .ant-card-dark {
     color: hsla(0,0%,100%,.65);
-    background-color: #1a212a;
+    background-color: #48645c;
     border-color:rgba(0,0,0,.09);
 }
 
@@ -251,7 +251,7 @@ body {
 
 .ant-card-dark .ant-table-thead th {
     color: hsla(0,0%,100%,.65);
-    background-color: #161b22;
+    background-color: #437466;
 }
 
 .ant-card-dark .ant-table-tbody tr td,
@@ -290,7 +290,7 @@ body {
 }
 
 .ant-card-dark .ant-table-tbody>tr:hover:not(.ant-table-expanded-row):not(.ant-table-row-selected)>td {
-    background-color: #11314d;
+    background-color: #ffffff;
 }
 
 .ant-card-dark .ant-select-dropdown-menu-item:hover:not(.ant-select-dropdown-menu-item-disabled),
@@ -403,27 +403,27 @@ body {
 }
 
 .ant-card-dark .ant-tag-blue {
-    color: #3c9ae8;
-    background: #111d2c;
-    border-color: #15395b;
+    color: #3476ad;
+    background: #122133;
+    border-color: #1c3f61;
 }
 
 .ant-card-dark .ant-tag-green {
-    color: #37b998;
-    background: #101e1a;
-    border-color: #144237;
+    color: #3c8c78;
+    background: #18302a;
+    border-color: #194f42;
 }
 
 .ant-card-dark .ant-tag-cyan {
-    color: #33bcb7;
-    background: #112123;
-    border-color: #144848;
+    color: #328f8b;
+    background: #193236;
+    border-color: #114a4a;
 }
 
 .ant-card-dark .ant-tag-red {
-    color: #e84749;
-    background: #2a1215;
-    border-color: #58181c;
+    color: #ad494a;
+    background: #2b1013;
+    border-color: #5c1c20;
 }
 
 .ant-card-dark .ant-tag-orange {
@@ -449,7 +449,7 @@ body {
 }
 
 .ant-card-dark .ant-radio-button-wrapper:hover {
-    color: #009670;
+    color: #044a38;
 }
 
 .ant-card-dark .ant-btn-primary {
@@ -460,7 +460,7 @@ body {
     box-shadow: 0 2px 0 rgba(255,255,255,.045);
 }
 .ant-card-dark .ant-btn-primary:hover {
-    background-color: #009670;
+    background-color: #044a38;
     border-color: #40a9ff00;
 }
 
